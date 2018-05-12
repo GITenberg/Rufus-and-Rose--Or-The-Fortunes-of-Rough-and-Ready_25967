@@ -1,0 +1,37 @@
+_repo: Rufus-and-Rose--Or-The-Fortunes-of-Rough-and-Ready_25967
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alger, Horatio, Jr.
+    aliases:
+    - Starr, Julian
+    - Alger, Horatio
+    - Jr., Horatio Alger
+    - Putnam, Arthur Lee
+    - Preston, Charles F.
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: ''
+gutenberg_issued: '2008-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25967'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'Brothers and sisters -- Fiction'
+- !lcsh 'New York (N.Y.) -- History -- 19th century -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Stepfathers -- Fiction'
+- !lcsh 'Clerks -- Fiction'
+title: Rufus and Rose; Or, The Fortunes of Rough and Ready
+url: http://www.gutenberg.org/ebooks/25967
